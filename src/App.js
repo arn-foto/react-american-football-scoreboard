@@ -1,4 +1,4 @@
-//TODO: STEP 1 - Import the useState hook.
+// /TODO: STEP 1 - Import the useState hook.
 
 import './App.css';
 import BottomRow from './BottomRow';
